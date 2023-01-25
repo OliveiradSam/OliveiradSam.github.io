@@ -1,3 +1,5 @@
-# Desafio-front 02 
+# Desafio-front 02
 
-# integração com API
+## exercicio proposto pela *Cubos Academy* para encerramento do segundo modulo de *Desenvolvimento Web*
+
+### integração com API
