@@ -2,7 +2,7 @@
 
 ## Exercicio proposto pela **Cubos Academy** para encerramento do segundo modulo de **Desenvolvimento Web**
 
-### Nessa aplicação voce encontra: 
+### Nessa aplicação você encontra: 
 - Visualização de filmes 
 - Paginação de filmes 
 - Busca de filmes
